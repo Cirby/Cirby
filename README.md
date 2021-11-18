@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on gadgets of Escape Room
+- 🔭 I’m currently working on gadgets of Escape Room games
 - 🌱 I’m currently learning Python and other IoT technologies
 
 <!--
