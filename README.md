@@ -1,0 +1,19 @@
+### Hi there 👋
+
+- 🔭 I’m currently working on gadgets of Escape Room
+- 🌱 I’m currently learning Python and other IoT technologies
+
+<!--
+**Cirby/Cirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on gadgets of Escape Room
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
